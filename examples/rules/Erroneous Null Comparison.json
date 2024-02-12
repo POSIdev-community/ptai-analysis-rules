@@ -1,0 +1,7 @@
+{
+    "Key": "Erroneous Null Comparison",
+    "Languages": "PlSql, TSql",
+    "DataFormat": "Dsl",
+    "Value": "(# == null) <|> (# != null)",
+    "FilenameWildcard": null
+}

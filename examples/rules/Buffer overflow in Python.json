@@ -1,0 +1,7 @@
+{
+    "Key": "Buffer overflow in Python",
+    "Languages": "Python",
+    "DataFormat": "Dsl",
+    "Value": "#.recvfrom_into(...)",
+    "FilenameWildcard": null
+}

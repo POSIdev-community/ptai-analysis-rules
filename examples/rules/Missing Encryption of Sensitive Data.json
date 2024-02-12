@@ -1,0 +1,7 @@
+{
+    "Key": "Missing Encryption of Sensitive Data",
+    "Languages": "Php, Java, JavaScript, C, CPlusPlus, ObjectiveC, Swift, CSharp, Go, Kotlin",
+    "DataFormat": "Dsl",
+    "Value": "<[\"^http://[\\w@][\\w.:@]+/?[\\w\\.?=%&=\\-@/$,]*$\"]>",
+    "FilenameWildcard": null
+}

@@ -1,0 +1,7 @@
+{
+    "Key": "Insecure RSA Padding",
+    "Languages": "Java, Kotlin",
+    "DataFormat": "Dsl",
+    "Value": "(javax.crypto.)?Cipher.getInstance(<[\"RSA/ECB/PKCS1Padding\" || \"NoPadding$\"]>)",
+    "FilenameWildcard": null
+}

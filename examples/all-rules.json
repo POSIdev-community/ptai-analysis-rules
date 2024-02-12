@@ -1,0 +1,698 @@
+[
+    {
+        "Key": "Attributes Code Inside Element Event",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Attributes Code Inside addEventListener",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Attributes Code Inside attachEvent",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Attributes Code Inside createAttribute",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Attributes Code Inside setAttribute",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Attributes Code Inside setAttributeNS",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Buffer overflow in Python",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Class defines clone but not implement Cloneable",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Cursor Snarfing PLSQL",
+        "Languages": "PlSql"
+    },
+    {
+        "Key": "DOM Modification Contextual Fragment",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "DOM Modification HTML Tag",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "DOM Modification Selected Position",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "DOM Modification String Inside Document",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Dangerous Function PLSQL",
+        "Languages": "PlSql"
+    },
+    {
+        "Key": "Dangerous Function TSQL",
+        "Languages": "TSql"
+    },
+    {
+        "Key": "Deprecated functions ObjC",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Direct Use of Threads",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Direct Use of Threads",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Direct Use of Threads",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Embedded Malicious Code",
+        "Languages": "C, CPlusPlus, ObjectiveC"
+    },
+    {
+        "Key": "Empty Default Exception Handler",
+        "Languages": "Php, Java, JavaScript, PlSql, TSql, Python, CSharp"
+    },
+    {
+        "Key": "Erroneous Null Comparison",
+        "Languages": "PlSql, TSql"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Exposure of System Data to an Unauthorized Control Sphere",
+        "Languages": "Python"
+    },
+    {
+        "Key": "External Control of File Name or Path",
+        "Languages": "Java"
+    },
+    {
+        "Key": "File Snarfing PLSQL",
+        "Languages": "PlSql"
+    },
+    {
+        "Key": "Format String PM",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Forwarding via location",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Forwarding via location function",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Forwarding via opening new tab",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Hardcoded Initialization Vector",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Hardcoded PBKDF password",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Hardcoded Password PM",
+        "Languages": "Php, Java, Html, JavaScript, PlSql, TSql, C, CPlusPlus, ObjectiveC, Swift, MySql, Python, CSharp, Go, Kotlin"
+    },
+    {
+        "Key": "Hardcoded Password PM",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Hardcoded Password PM",
+        "Languages": "Kotlin"
+    },
+    {
+        "Key": "HeaderInjection",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Improper Access Control",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Improper Certificate Validation",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Improper Certificate Validation",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Improperly Implemented Security Check for Standard",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Include Interface SSL",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Incorrect Permission Assignment For Critical Resource",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Incorrect Permission Assignment For Critical Resource",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Incorrect Permission Assignment For Critical Resource",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Incorrect Unix API using",
+        "Languages": "C, CPlusPlus, ObjectiveC"
+    },
+    {
+        "Key": "Incorrect Usage of Seeds in Pseudo-Random Number Generator",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Information Exposure PM",
+        "Languages": "C, CPlusPlus, ObjectiveC"
+    },
+    {
+        "Key": "Information Exposure Through Comments",
+        "Languages": "Php, Java, JavaScript, PlSql, TSql, Python, CSharp"
+    },
+    {
+        "Key": "Information Exposure Through Persistent Cookies",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Information Exposure Through Persistent Cookies",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Information Exposure Through Persistent Cookies",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Information Exposure Through Static Content",
+        "Languages": "Html"
+    },
+    {
+        "Key": "Information Exposure Through an Error Message",
+        "Languages": "Kotlin"
+    },
+    {
+        "Key": "Insecure Cookie Scope",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Insecure Cookie Scope",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Insecure Cookie Scope",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insecure Cookie Scope",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insecure Data Storage",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Insecure RSA Padding",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Insecure RSA Padding",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Insecure RSA Padding",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Insecure RSA Padding",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insecure RSA Padding",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Insecure SSL Protocol",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Insecure SSL Protocol",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insecure SSL connection",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Insecure SSL connection",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insecure Transport Java",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Insecure Validation Functions",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Insecure Validation Functions",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insecure cipher key export",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insecure connection protocol",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insecure usage of jinja templates",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insecure usage of mako templates",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insecure work with temporary files",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insufficient CORS Policy",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Insufficient Encryption Key Length",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Insufficient Encryption Key Length",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Insufficient Encryption Key Length",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Insufficient Logging&Monitoring",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Insufficient Session Expiration PM",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Integer Overflow PM",
+        "Languages": "Php, C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "JQuery HTML Inside DOM",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "JQuery Unsafe functions for DOM",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "JQuery Wrap Element to HTML",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "JQuery function that adds element",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "JQuery function that replaces element",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Leftover Debug Code",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Method Without Super clone",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Method Without Super finalize",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Missing Encryption of Sensitive Data",
+        "Languages": "Php, Java, JavaScript, C, CPlusPlus, ObjectiveC, Swift, CSharp, Go, Kotlin"
+    },
+    {
+        "Key": "Missing Encryption of Sensitive Data",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Missing auth localized reason",
+        "Languages": "ObjectiveC, Swift"
+    },
+    {
+        "Key": "NSLog using",
+        "Languages": "ObjectiveC, Swift"
+    },
+    {
+        "Key": "NoTLSReject",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Null PBKDF password",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Obsolet function",
+        "Languages": "Python"
+    },
+    {
+        "Key": "OpenRedirect",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Overly Broad Grant",
+        "Languages": "PlSql, TSql"
+    },
+    {
+        "Key": "Override equals method without hashCode",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Plaintext Storage of a Password",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Plaintext Storage of a Password",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Plaintext Storage of a Password",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Play 1 HTML XSS",
+        "Languages": "Html"
+    },
+    {
+        "Key": "Play 2 HTML XSS",
+        "Languages": "Html"
+    },
+    {
+        "Key": "Poor Logging Practice Logger",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Poor Logging Practice System",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Possible RCE through SQL Injection",
+        "Languages": "PlSql, TSql"
+    },
+    {
+        "Key": "Regex example with hardcoded password",
+        "Languages": "Kotlin"
+    },
+    {
+        "Key": "Regex example with hardcoded token",
+        "Languages": "CSharp, Java, Kotlin"
+    },
+    {
+        "Key": "Return of Stack Variable Address",
+        "Languages": "C, CPlusPlus, ObjectiveC"
+    },
+    {
+        "Key": "Sensitive Cookie in HTTPS Session Without Secure Attribute",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Sensitive Cookie in HTTPS Session Without Secure Attribute",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Sensitive Cookie in HTTPS Session Without Secure Attribute",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "ServerSideInjectionEval",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "ServerSideInjectionFunction",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "ServerSideInjectionSetInterval",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "ServerSideInjectionSetTimeout",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Static Random Number Generator",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Static Random Number Generator",
+        "Languages": "Java, CSharp"
+    },
+    {
+        "Key": "Type Confusion",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Uncontrolled Recursion",
+        "Languages": "Php, C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Unreachable Code",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Unsafe Reflection",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Unsafe cross-origin resource sharing",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Unsalted One Way Hash",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Unsalted One Way Hash",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Unsalted One Way Hash",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Unused var",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Use of Function with Inconsistent Implementations",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Hardcoded Cryptographic Key",
+        "Languages": "ObjectiveC, Swift"
+    },
+    {
+        "Key": "Use of Hardcoded Cryptographic Key",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Use of Hardcoded Cryptographic Key",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "TSql"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Use of Insufficiently Random Values",
+        "Languages": "C, CPlusPlus, ObjectiveC"
+    },
+    {
+        "Key": "Use of NullPointerException Catch",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Obsolete Function 1",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of System exit",
+        "Languages": "Java"
+    },
+    {
+        "Key": "Use of Uninitialized Variable",
+        "Languages": "Php, C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Java, Kotlin"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Use of a Broken or Risky Cryptographic Algorithm",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "User Driven Insecure Hash Algorithm",
+        "Languages": "Java"
+    },
+    {
+        "Key": "User Driven Insecure Hash Algorithm",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "Php"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "CSharp"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "PlSql"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "TSql"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "C, CPlusPlus, ObjectiveC, Swift"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "JavaScript"
+    },
+    {
+        "Key": "Weak Cryptographic Hash",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Weak crypto IV ObjC",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "WebView XSS",
+        "Languages": "ObjectiveC, Swift"
+    },
+    {
+        "Key": "XML External Entity PM",
+        "Languages": "Java"
+    },
+    {
+        "Key": "XML External Entity PM",
+        "Languages": "Php"
+    },
+    {
+        "Key": "XML External Entity PM",
+        "Languages": "ObjectiveC"
+    },
+    {
+        "Key": "XSS protection disabled",
+        "Languages": "Python"
+    },
+    {
+        "Key": "Yaml load",
+        "Languages": "Python"
+    }
+]

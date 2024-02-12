@@ -1,0 +1,7 @@
+{
+    "Key": "Information Exposure Through an Error Message",
+    "Languages": "Kotlin",
+    "DataFormat": "Dsl",
+    "Value": "#.printStackTrace()",
+    "FilenameWildcard": null
+}

@@ -1,0 +1,7 @@
+{
+    "Key": "Hardcoded Initialization Vector",
+    "Languages": "Python",
+    "DataFormat": "Dsl",
+    "Value": "AES.<[new]>(...,AES.MODE_CBC,...,<[(?i)iv]> = <[\".+\"]>)",
+    "FilenameWildcard": null
+}
