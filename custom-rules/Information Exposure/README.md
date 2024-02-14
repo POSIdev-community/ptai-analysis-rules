@@ -36,7 +36,7 @@
     clone_command = ["git", "-c", "http.sslVerify=false", "clone"]
    ```
    YAML:
-   ```
+   ```yaml
    - script: |
       git config http.sslVerify "false"
    ```
