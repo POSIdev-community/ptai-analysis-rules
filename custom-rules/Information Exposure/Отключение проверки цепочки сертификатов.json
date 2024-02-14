@@ -2,7 +2,7 @@
     "Key": "Hardcoded Password PM",
     "Languages": "Php, Java, Html, JavaScript, PlSql, TSql, C, CPlusPlus, ObjectiveC, Swift, MySql, Python, CSharp, Go, Kotlin",
     "DataFormat": "Regex",
-    "Value": "(?i)(ssl[.]{0,1}verify[: -_\"'=]{1,6}false['\"\\]{0,3}|^[ ]{0,20}ssl[ ]{0,3}[: -_\"'=]{1,6}[ ]{0,3}false)",
+    "Value": "(?i)((ssl|session)[.]{0,1}verify[: -_\"'=]{1,6}false['\"\\]{0,3}|^[ ]{0,20}ssl[ ]{0,3}[: -_\"'=]{1,6}[ ]{0,3}false)",
     "FilenameWildcard": null,
     "Description": "Отключение проверки цепочки сертификатов при установлении HTTPS-соединения помогает злоумышленникам вклиниться в канал связи и управлять данными либо читать их. Параметр SSL Verify не должен иметь значение false. См. [OWASP TOP 10:A5](https://owasp.org/Top10/A05_2021-Security_Misconfiguration).",
     "Severity": "Low" 
