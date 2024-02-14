@@ -1,5 +1,5 @@
 {
-    "Key": "Hardcoded Password PM",
+    "Key": "Отключение проверки цепочки сертификатов",
     "Languages": "Php, Java, Html, JavaScript, PlSql, TSql, C, CPlusPlus, ObjectiveC, Swift, MySql, Python, CSharp, Go, Kotlin",
     "DataFormat": "Regex",
     "Value": "(?i)((ssl|session)[.]{0,1}verify[: -_\"'=]{1,6}false['\"\\]{0,3}|^[ ]{0,20}ssl[ ]{0,3}[: -_\"'=]{1,6}[ ]{0,3}false)",
