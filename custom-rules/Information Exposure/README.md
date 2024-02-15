@@ -20,3 +20,8 @@
         }
     } 
    ```
+2. [Использование атрибута Referrerpolicy unsafe-url](./Использование%20атрибута%20Referrerpolicy%20unsafe-url.json)
+
+   `Referrerpolicy` – атрибут указывающий какой заголовок `Referer` необходимо отправлять при получении ресурса фрейма. При указании `unsafe-url` заголовок `Referer` будет включать источник и путь (но не fragment, password, или username). Это значение небезопасно, так как оно приводит к утечке источников и путей от ресурсов, защищенных с помощью TLS к небезопасным источникам. Применение `unsafe-url` в коде обязательно должно быть проанализировано.
+   
+   [<iframe>: The Inline Frame element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe#unsafe-url)
