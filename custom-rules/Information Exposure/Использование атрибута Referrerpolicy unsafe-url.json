@@ -1,0 +1,7 @@
+{
+    "Key": "Использование атрибута Referrerpolicy unsafe-url",
+    "Languages": "Php, Java, Html, JavaScript, PlSql, TSql, C, CPlusPlus, ObjectiveC, Swift, MySql, Python, CSharp, Go, Kotlin",
+    "DataFormat": "Regex",
+    "Value": "(?i)unsafe-url",
+    "FilenameWildcard": null
+}
