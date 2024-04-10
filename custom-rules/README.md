@@ -5,7 +5,7 @@
 Список типов правил:
 1. [Information Exposure](./Information%20Exposure) - директория для правил, которые находят код, потенциально приводящий к утечке данных.
 1. [Security misconfiguration](./Security%20misconfiguration) - директория для правил, которые находят код, вносящий ошибки конфигурации ПО.
-2. [Vulnerable and Outdated Components](./Vulnerable%20and%20Outdated%20Components) - директория для правил, которые находят код, связанный с уязвимы компонентами либо их применению.
+2. [Vulnerable and Outdated Components](./Vulnerable%20and%20Outdated%20Components) - директория для правил, которые находят код, связанный с уязвимыми/устаревшими компонентами либо их применению.
 
 
 Список пользовательских правил в этом репозитории:
