@@ -46,7 +46,7 @@
    - script: |
       git config http.sslVerify "false"
    ```
-1. [Protestware](./Malware/protestware.json)
+1. [Protestware](./Malware/Protestware.json)
 
    Универсальное правило для поиска protestware в любых файлах.
    Наличие в коде протестных слов говорит о потенциальном наличии в ПО вредоносного компонента. Если сработка найдена в заимствованном коде/пакете, от него необходимо избавиться.
