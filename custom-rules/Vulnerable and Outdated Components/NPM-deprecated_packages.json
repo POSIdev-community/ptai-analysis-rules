@@ -1,5 +1,5 @@
 {
-    "Key": "Android (Kotlin/JAVA). Зависимость зашита в исходном коде",
+    "Key": "NPM. Применение отозванных зависимостей (отзыв по соображениям безопасности) (package-lock.json)",
     "Languages": "JavaScript, TypeScript",
     "DataFormat": "Regex",
     "Value": "\"deprecated\":.*$",
