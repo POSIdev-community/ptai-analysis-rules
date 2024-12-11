@@ -20,13 +20,39 @@
 - `contactInfo` - контакты автора
 - `level` - уровень (опасность) уязвимости
 - `value` - само правило. Регулярное выражение или код на DSL
-- `vulnerabilityType` - тип уязвимости (можно указать свой)
-
-Для `Dsl`:
-- `programmingLanguages` - список языков, поддерживаемых этим правилом
+- `vulnerabilityType` - тип уязвимости можно указать [встроенный](./all-rules.json) или свой.
 
 Для `Regex`:
-- `filenameWildcard` - шаблон имён файлов
+- `filenameWildcard` - шаблон имён файлов. Если их несколько, нужно указать их через `;`. Пример: `"*.php;*.java;*.html"`
+
+Для `Dsl`:
+- `programmingLanguages` - список языков, поддерживаемых этим правилом.  
+Все поддерживаемые языки:
+    ```json
+    {
+      "programmingLanguages": [
+        "Php",
+        "Java",
+        "Html",
+        "JavaScript",
+        "PlSql",
+        "TSql",
+        "Aspx",
+        "C",
+        "CPlusPlus",
+        "ObjectiveC",
+        "Swift",
+        "MySql",
+        "Python",
+        "CSharp",
+        "Go",
+        "Kotlin",
+        "TypeScript",
+        "Ruby",
+        "Solidity"
+      ]
+    }
+    ```
 
 ## Выдержка из документации по формату правил
 Есть два режима:
