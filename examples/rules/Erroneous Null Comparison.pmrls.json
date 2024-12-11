@@ -1,0 +1,14 @@
+{
+  "name": "Erroneous Null Comparison",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "PlSql",
+    "TSql"
+  ],
+  "level": "Medium",
+  "value": "(# == null) <|> (# != null)",
+  "vulnerabilityType": {
+    "name": "Erroneous Null Comparison"
+  }
+}

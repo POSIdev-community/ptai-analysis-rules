@@ -1,0 +1,22 @@
+{
+  "name": "Missing Encryption of Sensitive Data",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Php",
+    "Java",
+    "JavaScript",
+    "C",
+    "CPlusPlus",
+    "ObjectiveC",
+    "Swift",
+    "CSharp",
+    "Go",
+    "Kotlin"
+  ],
+  "level": "Medium",
+  "value": "<[\"^http://[\\w@][\\w.:@]+/?[\\w\\.?=%&=\\-@/$,]*$\"]>",
+  "vulnerabilityType": {
+    "name": "Missing Encryption of Sensitive Data"
+  }
+}

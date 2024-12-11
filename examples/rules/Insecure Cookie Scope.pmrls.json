@@ -1,0 +1,14 @@
+{
+  "name": "Insecure Cookie Scope",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Java",
+    "Kotlin"
+  ],
+  "level": "Medium",
+  "value": "(<[expr]>.)?<[[cC]ookie]>.setDomain(<[\"^.?[a-zA-Z0-9\\-]+\\.[a-zA-Z0-9\\-]+$\"]>)",
+  "vulnerabilityType": {
+    "name": "Insecure Cookie Scope"
+  }
+}

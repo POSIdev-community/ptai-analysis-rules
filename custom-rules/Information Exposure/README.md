@@ -4,7 +4,7 @@
 
 Список правил:
 
-1. [Information Exposure Through an Error Message](./Information%20Exposure%20Through%20an%20Error%20Message.json)
+1. [Information Exposure Through an Error Message](./Information%20Exposure%20Through%20an%20Error%20Message.pmrls.json)
 
    Правило для примера оформления. Оно срабатывает при вызове функции с именем `printStackTrace()`
    на произвольной переменной. Так как функция используется для получения стек-трейса исключения,

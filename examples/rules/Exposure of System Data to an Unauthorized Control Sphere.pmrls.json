@@ -1,0 +1,13 @@
+{
+  "name": "Exposure of System Data to an Unauthorized Control Sphere",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Php"
+  ],
+  "level": "Medium",
+  "value": "phpinfo(INFO_MODULES)",
+  "vulnerabilityType": {
+    "name": "Exposure of System Data to an Unauthorized Control Sphere"
+  }
+}

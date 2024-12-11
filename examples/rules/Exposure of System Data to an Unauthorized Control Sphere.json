@@ -1,7 +1,0 @@
-{
-    "Key": "Exposure of System Data to an Unauthorized Control Sphere",
-    "Languages": "Php",
-    "DataFormat": "Dsl",
-    "Value": "phpinfo(INFO_MODULES)",
-    "FilenameWildcard": null
-}

@@ -1,7 +1,0 @@
-{
-    "Key": "Dangerous Function TSQL",
-    "Languages": "TSql",
-    "DataFormat": "Dsl",
-    "Value": "xp_cmdshell(...)",
-    "FilenameWildcard": null
-}

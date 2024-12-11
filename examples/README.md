@@ -8,18 +8,25 @@
 объектов с указанием языков, для которых это правило применяется.  
 
 Некоторые примеры правил:
-- [Захардкоженный пароль](./rules/Hardcoded%20Password%20PM.json)
-- [Пустой обработчик исключений для нескольких языков](./rules/Hardcoded%20Password%20PM.json)
-- [Стэктрейс вызова](./rules/Information%20Exposure%20Through%20an%20Error%20Message.json)
-- [Пример с регулярным выражением](./rules/Hardcoded%20Token%20with%20Regex.json)
+- [Захардкоженный пароль](./rules/Hardcoded%20Password%20PM.pmrls.json)
+- [Пустой обработчик исключений для нескольких языков](./rules/Hardcoded%20Password%20PM.pmrls.json)
+- [Стэктрейс вызова](./rules/Information%20Exposure%20Through%20an%20Error%20Message.pmrls.json)
+- [Пример с регулярным выражением](./rules/Hardcoded%20Token%20with%20Regex.pmrls.json)
 
 ## Описание полей правил
 
-- `Key` — идентификатор правила
-- `Languages` — список языков разделённых запятой, поддерживаемых этим правилом
-- `DataFormat` — `Regex` или `Dsl` — задаёт формат правила
-- `Value` — само правило. Регулярное выражение или код на DSL
-- `FilenameWildcard` — шаблон имени файла
+- `name` - имя правила
+- `dataFormat` - `Regex` или `Dsl` — задаёт формат правила
+- `contactInfo` - контакты автора
+- `level` - уровень (опасность) уязвимости
+- `value` - само правило. Регулярное выражение или код на DSL
+- `vulnerabilityType` - тип уязвимости (можно указать свой)
+
+Для `Dsl`:
+- `programmingLanguages` - список языков, поддерживаемых этим правилом
+
+Для `Regex`:
+- `filenameWildcard` - шаблон имён файлов
 
 ## Выдержка из документации по формату правил
 Есть два режима:

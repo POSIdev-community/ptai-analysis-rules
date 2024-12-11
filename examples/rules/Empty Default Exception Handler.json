@@ -1,7 +1,0 @@
-{
-    "Key": "Empty Default Exception Handler",
-    "Languages": "Php, Java, JavaScript, PlSql, TSql, Python, CSharp",
-    "DataFormat": "Dsl",
-    "Value": "try catch { }",
-    "FilenameWildcard": null
-}
