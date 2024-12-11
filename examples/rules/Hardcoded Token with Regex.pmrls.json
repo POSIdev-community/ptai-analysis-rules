@@ -1,0 +1,11 @@
+{
+  "name": "Hardcoded Password PM",
+  "dataFormat": "Regex",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "filenameWildcard": "*.php,*.java,*.html,*.js,*.plsql,*.tsql,*.c,*.cpp,*.m,*.swift,*.sql,*.py,*.cs,*.go,*.kt",
+  "level": "Medium",
+  "value": "token = <[\".*\"]>",
+  "vulnerabilityType": {
+    "name": "Hardcoded Password PM"
+  }
+}

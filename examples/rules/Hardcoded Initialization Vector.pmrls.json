@@ -1,0 +1,13 @@
+{
+  "name": "Hardcoded Initialization Vector",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Python"
+  ],
+  "level": "Medium",
+  "value": "AES.<[new]>(...,AES.MODE_CBC,...,<[(?i)iv]> = <[\".+\"]>)",
+  "vulnerabilityType": {
+    "name": "Hardcoded Initialization Vector"
+  }
+}

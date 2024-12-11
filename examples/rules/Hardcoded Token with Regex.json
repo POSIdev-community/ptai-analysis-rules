@@ -1,7 +1,0 @@
-{
-    "Key": "Hardcoded Password PM",
-    "Languages": "Php, Java, Html, JavaScript, PlSql, TSql, C, CPlusPlus, ObjectiveC, Swift, MySql, Python, CSharp, Go, Kotlin",
-    "DataFormat": "Regex",
-    "Value": "token = <[\".*\"]>",
-    "FilenameWildcard": null
-}

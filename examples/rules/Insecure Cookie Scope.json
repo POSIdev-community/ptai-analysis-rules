@@ -1,7 +1,0 @@
-{
-    "Key": "Insecure Cookie Scope",
-    "Languages": "Java, Kotlin",
-    "DataFormat": "Dsl",
-    "Value": "(<[expr]>.)?<[[cC]ookie]>.setDomain(<[\"^.?[a-zA-Z0-9\\-]+\\.[a-zA-Z0-9\\-]+$\"]>)",
-    "FilenameWildcard": null
-}

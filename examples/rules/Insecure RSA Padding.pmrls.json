@@ -1,0 +1,14 @@
+{
+  "name": "Insecure RSA Padding",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Java",
+    "Kotlin"
+  ],
+  "level": "Medium",
+  "value": "(javax.crypto.)?Cipher.getInstance(<[\"RSA/ECB/PKCS1Padding\" || \"NoPadding$\"]>)",
+  "vulnerabilityType": {
+    "name": "Insecure RSA Padding"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Information Exposure Through an Error Message",
+  "dataFormat": "Dsl",
+  "contactInfo": "https://github.com/POSIdev-community/ptai-analysis-rules",
+  "programmingLanguages": [
+    "Kotlin"
+  ],
+  "level": "Medium",
+  "value": "#.printStackTrace()",
+  "vulnerabilityType": {
+    "name": "Information Exposure Through an Error Message"
+  }
+}
